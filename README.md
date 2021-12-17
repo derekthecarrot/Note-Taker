@@ -21,7 +21,7 @@ User will need to visit Heroku application link to use. https://boiling-ocean-85
 In order to use this application please visit https://boiling-ocean-85036.herokuapp.com/. There will be a section to get started - once you press that you will be able to type in a title, and the description of your notes. You can then click the save button to save it to the side and a delete button will appear which you can delete with.
 
 
-![My Website](screenshot.png)
+![My Website](screenshot.PNG)
 
 
 ## License
